@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[120],{120:(e,u,n)=>{n.r(u),n.d(u,{default:()=>l});var t=n(294);const l=function(){return t.createElement("div",null,"DummyTable")}}}]);
